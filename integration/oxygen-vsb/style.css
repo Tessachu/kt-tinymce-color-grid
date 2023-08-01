@@ -1,0 +1,7 @@
+#oxygen-global-settings .oxygen-settings-content .oxygen-add-global-color-set,
+#oxygen-global-settings .oxygen-settings-content .oxygen-add-global-color,
+#oxygen-global-settings .oxygen-sidebar-breadcrumb-current img[ng-click*="deleteGlobalColorSet"],
+#oxygen-global-settings .oxygen-remove-color-icon,
+#oxygen-global-settings .oxygen-color-picker-color {
+    display: none !important;
+}
