@@ -1,11 +1,9 @@
 === Central Color Palette ===
-Contributors: kungtiger
-Requires at least: 3.5
+Contributors: tessawatkinsllc, kungtiger
+Donate link: https://just1voice.com/donate/
+Tags: color, customizer, editor, gutenberg, palette, picker, tinymce
 Tested up to: 5.3
 Stable tag: 1.15.5
-Requires PHP: 5.3
-Requires at least: 5.2
-Tags: color, customizer, editor, gutenberg, palette, picker, tinymce
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
